@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation"/>
+      <class name="com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality"/>
+      <class name="com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents"/>
+      <class name="com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg"/>
+      <class name="com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1"/>
+      <class name="com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts"/>
+      <class name="com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText"/>
+      <class name="com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1"/>
+      <class name="com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC"/>
+      <class name="com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC"/>
+      <class name="com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor"/>
+      <class name="com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor"/>
+      <class name="com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective"/>
+      <class name="com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ"/>
+      <class name="com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources"/>
+      <class name="com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources"/>      
+      <class name="com.Relistor.testcases.TC_16017_VerifyStickyBarCTA"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

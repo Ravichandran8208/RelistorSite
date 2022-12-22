@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="32" total="49" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-22T17:33:00 IST" name="Suite" finished-at="2022-12-22T17:43:21 IST" duration-ms="621361">
+    <groups>
+    </groups>
+    <test started-at="2022-12-22T17:33:00 IST" name="Test" finished-at="2022-12-22T17:43:21 IST" duration-ms="621361">
+      <class name="com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts@47caedad]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts@47caedad]" started-at="2022-12-22T17:37:50 IST" name="startTestCase" finished-at="2022-12-22T17:37:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts@47caedad]" started-at="2022-12-22T17:37:50 IST" name="preCondition" finished-at="2022-12-22T17:38:10 IST" duration-ms="20513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifymumanImginSec3BelowAnimationFonts(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts@47caedad]" started-at="2022-12-22T17:38:10 IST" name="runVerifymumanImginSec3BelowAnimationFonts" data-provider="fetchData" finished-at="2022-12-22T17:38:16 IST" duration-ms="5405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-529x589-home-down.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[home character]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifymumanImginSec3BelowAnimationFonts -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts@47caedad]" started-at="2022-12-22T17:38:16 IST" name="postCondition" finished-at="2022-12-22T17:38:16 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts@47caedad]" started-at="2022-12-22T17:38:16 IST" name="stopTestCase" finished-at="2022-12-22T17:38:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16006_VerifymumanImginSec3BelowAnimationFonts -->
+      <class name="com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor@126253fd]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor@126253fd]" started-at="2022-12-22T17:39:48 IST" name="startTestCase" finished-at="2022-12-22T17:39:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor@126253fd]" started-at="2022-12-22T17:39:48 IST" name="preCondition" finished-at="2022-12-22T17:39:58 IST" duration-ms="10546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec1AboutRelistor(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor@126253fd]" started-at="2022-12-22T17:39:58 IST" name="runVerifyMumanImgSec1AboutRelistor" data-provider="fetchData" finished-at="2022-12-22T17:40:10 IST" duration-ms="11360" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-587x1088-about-relistor-new.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[About]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec1AboutRelistor -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor@126253fd]" started-at="2022-12-22T17:40:10 IST" name="postCondition" finished-at="2022-12-22T17:40:10 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor@126253fd]" started-at="2022-12-22T17:40:10 IST" name="stopTestCase" finished-at="2022-12-22T17:40:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16011_VerifyMumanImgSec1AboutRelistor -->
+      <class name="com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg@2657d4dd]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg@2657d4dd]" started-at="2022-12-22T17:36:11 IST" name="startTestCase" finished-at="2022-12-22T17:36:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg@2657d4dd]" started-at="2022-12-22T17:36:11 IST" name="preCondition" finished-at="2022-12-22T17:36:32 IST" duration-ms="20758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyFooterCharacterMummanImg(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg@2657d4dd]" started-at="2022-12-22T17:36:32 IST" name="runVerifyFooterCharacterMummanImg" data-provider="fetchData" finished-at="2022-12-22T17:36:37 IST" duration-ms="5271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Footer Character]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-306x306-footer-character.png]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyFooterCharacterMummanImg -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg@2657d4dd]" started-at="2022-12-22T17:36:37 IST" name="postCondition" finished-at="2022-12-22T17:36:37 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg@2657d4dd]" started-at="2022-12-22T17:36:37 IST" name="stopTestCase" finished-at="2022-12-22T17:36:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16004_VerifyFooterCharacterMummanImg -->
+      <class name="com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ@5c86a017]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ@5c86a017]" started-at="2022-12-22T17:40:58 IST" name="startTestCase" finished-at="2022-12-22T17:40:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ@5c86a017]" started-at="2022-12-22T17:40:58 IST" name="preCondition" finished-at="2022-12-22T17:41:07 IST" duration-ms="8452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec1InFAQ(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ@5c86a017]" started-at="2022-12-22T17:41:07 IST" name="runVerifyMumanImgSec1InFAQ" data-provider="fetchData" finished-at="2022-12-22T17:41:15 IST" duration-ms="7988" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-330x441-faq.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[faq]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec1InFAQ -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ@5c86a017]" started-at="2022-12-22T17:41:15 IST" name="postCondition" finished-at="2022-12-22T17:41:16 IST" duration-ms="1434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ@5c86a017]" started-at="2022-12-22T17:41:16 IST" name="stopTestCase" finished-at="2022-12-22T17:41:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16014_VerifyMumanImgSec1InFAQ -->
+      <class name="com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC@1500b2f3]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC@1500b2f3]" started-at="2022-12-22T17:38:48 IST" name="startTestCase" finished-at="2022-12-22T17:38:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC@1500b2f3]" started-at="2022-12-22T17:38:48 IST" name="preCondition" finished-at="2022-12-22T17:38:57 IST" duration-ms="9060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgInAboutOICSec1(java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC@1500b2f3]" started-at="2022-12-22T17:38:57 IST" name="runVerifyMumanImgInAboutOICSec1" data-provider="fetchData" finished-at="2022-12-22T17:39:11 IST" duration-ms="13465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgInAboutOICSec1 -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC@1500b2f3]" started-at="2022-12-22T17:39:11 IST" name="postCondition" finished-at="2022-12-22T17:39:11 IST" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC@1500b2f3]" started-at="2022-12-22T17:39:11 IST" name="stopTestCase" finished-at="2022-12-22T17:39:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16009_VerifyMumanImgNearScrollBarinAboutOIC -->
+      <class name="com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective@475c9c31]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective@475c9c31]" started-at="2022-12-22T17:40:34 IST" name="startTestCase" finished-at="2022-12-22T17:40:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective@475c9c31]" started-at="2022-12-22T17:40:34 IST" name="preCondition" finished-at="2022-12-22T17:40:50 IST" duration-ms="15320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec1InPatientPerspective(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective@475c9c31]" started-at="2022-12-22T17:40:50 IST" name="runVerifyMumanImgSec1InPatientPerspective" data-provider="fetchData" finished-at="2022-12-22T17:40:58 IST" duration-ms="7927" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-759x869-patient.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patient]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec1InPatientPerspective -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective@475c9c31]" started-at="2022-12-22T17:40:58 IST" name="postCondition" finished-at="2022-12-22T17:40:58 IST" duration-ms="571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective@475c9c31]" started-at="2022-12-22T17:40:58 IST" name="stopTestCase" finished-at="2022-12-22T17:40:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16013_VerifyMumanImgSec1InPatientPerspective -->
+      <class name="com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents@4f0f2942]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents@4f0f2942]" started-at="2022-12-22T17:34:38 IST" name="startTestCase" finished-at="2022-12-22T17:34:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents@4f0f2942]" started-at="2022-12-22T17:34:38 IST" name="preCondition" finished-at="2022-12-22T17:34:55 IST" duration-ms="16514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyFontpropInGlobalHeaderContents(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents@4f0f2942]" started-at="2022-12-22T17:34:55 IST" name="runVerifyFontpropInGlobalHeaderContents" data-provider="fetchData" finished-at="2022-12-22T17:35:46 IST" duration-ms="51046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Montserrat, sans-serif]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[#3660ea]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[18px]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[23.4px]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[#fff0b2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Montserrat, sans-serif]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[#ffffff]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[18px]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[700]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[23.4px]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[#3660ea]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[(205, 42)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyFontpropInGlobalHeaderContents -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents@4f0f2942]" started-at="2022-12-22T17:35:46 IST" name="postCondition" finished-at="2022-12-22T17:36:11 IST" duration-ms="25086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents@4f0f2942]" started-at="2022-12-22T17:36:11 IST" name="stopTestCase" finished-at="2022-12-22T17:36:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16003_VerifyFontpropInGlobalHeaderContents -->
+      <class name="com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1@28cda624]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1@28cda624]" started-at="2022-12-22T17:38:30 IST" name="startTestCase" finished-at="2022-12-22T17:38:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1@28cda624]" started-at="2022-12-22T17:38:30 IST" name="preCondition" finished-at="2022-12-22T17:38:39 IST" duration-ms="9033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgInAboutOICSec1(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1@28cda624]" started-at="2022-12-22T17:38:39 IST" name="runVerifyMumanImgInAboutOICSec1" data-provider="fetchData" finished-at="2022-12-22T17:38:48 IST" duration-ms="8736" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-587x1088-about-oic-new.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[About]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgInAboutOICSec1 -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1@28cda624]" started-at="2022-12-22T17:38:48 IST" name="postCondition" finished-at="2022-12-22T17:38:48 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1@28cda624]" started-at="2022-12-22T17:38:48 IST" name="stopTestCase" finished-at="2022-12-22T17:38:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16008_VerifyMumanImgInAboutOICSec1 -->
+      <class name="com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1@5340477f]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1@5340477f]" started-at="2022-12-22T17:36:37 IST" name="startTestCase" finished-at="2022-12-22T17:36:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1@5340477f]" started-at="2022-12-22T17:36:38 IST" name="preCondition" finished-at="2022-12-22T17:36:51 IST" duration-ms="13259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyBannerImgsInSec1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1@5340477f]" started-at="2022-12-22T17:36:51 IST" name="runVerifyBannerImgsInSec1" data-provider="fetchData" finished-at="2022-12-22T17:37:49 IST" duration-ms="57633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/homenew/img-1929x987-newbanner-1.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Banner 1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/homenew/img-1929x987-newbanner-2.png]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Banner 2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/homenew/img-1929x987-newbanner-3.png]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Banner 3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/homenew/img-1929x987-newbanner-4.png]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Banner 3]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[jtfytc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyBannerImgsInSec1 -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1@5340477f]" started-at="2022-12-22T17:37:49 IST" name="postCondition" finished-at="2022-12-22T17:37:50 IST" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1@5340477f]" started-at="2022-12-22T17:37:50 IST" name="stopTestCase" finished-at="2022-12-22T17:37:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16005_VerifyBannerImgsInSec1 -->
+      <class name="com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources@5276d6ee]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources@5276d6ee]" started-at="2022-12-22T17:41:47 IST" name="startTestCase" finished-at="2022-12-22T17:41:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources@5276d6ee]" started-at="2022-12-22T17:41:47 IST" name="preCondition" finished-at="2022-12-22T17:42:08 IST" duration-ms="21542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec1NearSlideBarInResources(java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources@5276d6ee]" started-at="2022-12-22T17:42:08 IST" name="runVerifyMumanImgSec1NearSlideBarInResources" data-provider="fetchData" finished-at="2022-12-22T17:42:26 IST" duration-ms="17418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec1NearSlideBarInResources -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources@5276d6ee]" started-at="2022-12-22T17:42:26 IST" name="postCondition" finished-at="2022-12-22T17:42:30 IST" duration-ms="4529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources@5276d6ee]" started-at="2022-12-22T17:42:30 IST" name="stopTestCase" finished-at="2022-12-22T17:42:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16016_VerifyMumanImgSec1NearSlideBarInResources -->
+      <class name="com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality@446a1e84]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality@446a1e84]" started-at="2022-12-22T17:33:57 IST" name="startTestCase" finished-at="2022-12-22T17:33:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality@446a1e84]" started-at="2022-12-22T17:33:57 IST" name="preCondition" finished-at="2022-12-22T17:34:20 IST" duration-ms="23223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyGlobalHeaderContentAndCTAFunctionality(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality@446a1e84]" started-at="2022-12-22T17:34:20 IST" name="runVerifyGlobalHeaderContentAndCTAFunctionality" data-provider="fetchData" finished-at="2022-12-22T17:34:38 IST" duration-ms="17207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Relistor is used to treat constipation caused by opioids in adults with long-lasting (chronic) pain.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Answer these questions to help start a conversation with your healthcare provider today. Check your gut]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[center]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Check your gut]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Relistor: Opioid-Induced Constipation Discussion Guide - NOT FOR COMMERCIAL USE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyGlobalHeaderContentAndCTAFunctionality -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality@446a1e84]" started-at="2022-12-22T17:34:38 IST" name="postCondition" finished-at="2022-12-22T17:34:38 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality@446a1e84]" started-at="2022-12-22T17:34:38 IST" name="stopTestCase" finished-at="2022-12-22T17:34:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16002_VerifyGlobalHeaderContentAndCTAFunctionality -->
+      <class name="com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC@7eecb5b8]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC@7eecb5b8]" started-at="2022-12-22T17:39:11 IST" name="startTestCase" finished-at="2022-12-22T17:39:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC@7eecb5b8]" started-at="2022-12-22T17:39:13 IST" name="preCondition" finished-at="2022-12-22T17:39:38 IST" duration-ms="25699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec4InAboutOIC(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC@7eecb5b8]" started-at="2022-12-22T17:39:38 IST" name="runVerifyMumanImgSec4InAboutOIC" data-provider="fetchData" finished-at="2022-12-22T17:39:47 IST" duration-ms="8960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-680x646-oic-patient.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[OIC Patient]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec4InAboutOIC -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC@7eecb5b8]" started-at="2022-12-22T17:39:47 IST" name="postCondition" finished-at="2022-12-22T17:39:48 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC@7eecb5b8]" started-at="2022-12-22T17:39:48 IST" name="stopTestCase" finished-at="2022-12-22T17:39:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16010_VerifyMumanImgSec4InAboutOIC -->
+      <class name="com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources@5c7bfdc1]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources@5c7bfdc1]" started-at="2022-12-22T17:41:16 IST" name="startTestCase" finished-at="2022-12-22T17:41:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources@5c7bfdc1]" started-at="2022-12-22T17:41:16 IST" name="preCondition" finished-at="2022-12-22T17:41:38 IST" duration-ms="21347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec1InResources(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources@5c7bfdc1]" started-at="2022-12-22T17:41:38 IST" name="runVerifyMumanImgSec1InResources" data-provider="fetchData" finished-at="2022-12-22T17:41:46 IST" duration-ms="8602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-513x513-resource.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Resource]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec1InResources -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources@5c7bfdc1]" started-at="2022-12-22T17:41:46 IST" name="postCondition" finished-at="2022-12-22T17:41:47 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources@5c7bfdc1]" started-at="2022-12-22T17:41:47 IST" name="stopTestCase" finished-at="2022-12-22T17:41:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16015_VerifyMumanImgSec1InResources -->
+      <class name="com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor@57db2b13]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor@57db2b13]" started-at="2022-12-22T17:40:10 IST" name="startTestCase" finished-at="2022-12-22T17:40:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor@57db2b13]" started-at="2022-12-22T17:40:10 IST" name="preCondition" finished-at="2022-12-22T17:40:22 IST" duration-ms="11854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgInSec2InAboutRelistor(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor@57db2b13]" started-at="2022-12-22T17:40:22 IST" name="runVerifyMumanImgInSec2InAboutRelistor" data-provider="fetchData" finished-at="2022-12-22T17:40:34 IST" duration-ms="11762" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-776x768-about-relistor-1.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[about relistor]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[left]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgInSec2InAboutRelistor -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor@57db2b13]" started-at="2022-12-22T17:40:34 IST" name="postCondition" finished-at="2022-12-22T17:40:34 IST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor@57db2b13]" started-at="2022-12-22T17:40:34 IST" name="stopTestCase" finished-at="2022-12-22T17:40:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16012_VerifyMumanImgInSec2InAboutRelistor -->
+      <class name="com.Relistor.testcases.TC_16017_VerifyStickyBarCTA">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16017_VerifyStickyBarCTA@71687585]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16017_VerifyStickyBarCTA@71687585]" started-at="2022-12-22T17:42:30 IST" name="startTestCase" finished-at="2022-12-22T17:42:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16017_VerifyStickyBarCTA@71687585]" started-at="2022-12-22T17:42:31 IST" name="preCondition" finished-at="2022-12-22T17:43:09 IST" duration-ms="38135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMumanImgSec1NearSlideBarInResources(java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16017_VerifyStickyBarCTA@71687585]" started-at="2022-12-22T17:43:09 IST" name="runVerifyMumanImgSec1NearSlideBarInResources" data-provider="fetchData" finished-at="2022-12-22T17:43:19 IST" duration-ms="10096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Relistor: Opioid-Induced Constipation Discussion Guide - NOT FOR COMMERCIAL USE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMumanImgSec1NearSlideBarInResources -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16017_VerifyStickyBarCTA@71687585]" started-at="2022-12-22T17:43:19 IST" name="postCondition" finished-at="2022-12-22T17:43:21 IST" duration-ms="2460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16017_VerifyStickyBarCTA@71687585]" started-at="2022-12-22T17:43:21 IST" name="stopTestCase" finished-at="2022-12-22T17:43:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16017_VerifyStickyBarCTA -->
+      <class name="com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText@7139992f]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText@7139992f]" started-at="2022-12-22T17:38:16 IST" name="startTestCase" finished-at="2022-12-22T17:38:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText@7139992f]" started-at="2022-12-22T17:38:16 IST" name="preCondition" finished-at="2022-12-22T17:38:25 IST" duration-ms="8515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMummanImgAboveCloudText(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText@7139992f]" started-at="2022-12-22T17:38:25 IST" name="runVerifyMummanImgAboveCloudText" data-provider="fetchData" finished-at="2022-12-22T17:38:30 IST" duration-ms="4974" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://relistor-bhc.epidev.me/siteassets/img/img-516x702-home-down-2.png]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[home character]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[center]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMummanImgAboveCloudText -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText@7139992f]" started-at="2022-12-22T17:38:30 IST" name="postCondition" finished-at="2022-12-22T17:38:30 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText@7139992f]" started-at="2022-12-22T17:38:30 IST" name="stopTestCase" finished-at="2022-12-22T17:38:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+      </class> <!-- com.Relistor.testcases.TC_16007_VerifyMummanImgAboveCloudText -->
+      <class name="com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:32:59 IST" name="startReport" finished-at="2022-12-22T17:33:00 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="setValues()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:33:00 IST" name="setValues" finished-at="2022-12-22T17:33:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="startTestCase()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:33:00 IST" name="startTestCase" finished-at="2022-12-22T17:33:00 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestCase -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:33:01 IST" name="preCondition" finished-at="2022-12-22T17:33:18 IST" duration-ms="16664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="runVerifyMetaDetailsandSitemapImplementation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:33:18 IST" name="runVerifyMetaDetailsandSitemapImplementation" data-provider="fetchData" finished-at="2022-12-22T17:33:56 IST" duration-ms="38131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Opioid Induced Constipation Medication | RELISTOR® (methylnaltrexone bromide) - NOT FOR COMMERCIAL USE]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RELISTOR® is a prescription drug used to treat opioid induced constipation in adults with long-lasting non-cancer pain. See Safety and full Prescribing Information.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[INDEX, FOLLOW]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[nfKQE4g9nvReq9AgOxrtR1ZZHXiw7KvnKtMfdwza3AY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runVerifyMetaDetailsandSitemapImplementation -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:33:56 IST" name="postCondition" finished-at="2022-12-22T17:33:57 IST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method is-config="true" signature="stopTestCase()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:33:57 IST" name="stopTestCase" finished-at="2022-12-22T17:33:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTestCase -->
+        <test-method is-config="true" signature="endResult()[pri:0, instance:com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation@6f43c82]" started-at="2022-12-22T17:43:22 IST" name="endResult" finished-at="2022-12-22T17:43:26 IST" duration-ms="4083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endResult -->
+      </class> <!-- com.Relistor.testcases.TC_16001_VerifyMetaDetailsandSitemapImplementation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
